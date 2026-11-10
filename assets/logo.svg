@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 140" width="360" height="140" role="img" aria-label="ÉCORCE Parfums logo">
+  <g fill="none" stroke="#6e1a1e" stroke-width="2.2" transform="translate(166,8)">
+    <rect x="9" y="1.5" width="10" height="7" rx="1.6"/>
+    <rect x="1.5" y="10" width="25" height="27" rx="6.5"/>
+    <path d="M14 17.5c2.6 3.3 4 5.5 4 7.4a4 4 0 0 1-8 0c0-1.9 1.4-4.1 4-7.4z" fill="#6e1a1e" stroke="none"/>
+  </g>
+  <text x="180" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="11" fill="#6e1a1e">ÉCORCE</text>
+  <text x="180" y="118" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#6e1a1e">Parfums</text>
+</svg>

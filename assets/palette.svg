@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="ÉCORCE colour palette: Rouge Oxblood">
+  <rect width="900" height="200" fill="#f6efea"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(30,30)">
+      <rect width="150" height="100" rx="10" fill="#eee4da" stroke="#2b1416" stroke-opacity="0.15"/>
+      <text y="124" font-size="13" font-weight="700" fill="#2b1416">Cream (paper)</text>
+      <text y="142" font-size="12" fill="#2b1416" fill-opacity="0.7">#eee4da</text>
+    </g>
+    <g transform="translate(200,30)">
+      <rect width="150" height="100" rx="10" fill="#2b1416"/>
+      <text y="124" font-size="13" font-weight="700" fill="#2b1416">Ink</text>
+      <text y="142" font-size="12" fill="#2b1416" fill-opacity="0.7">#2b1416</text>
+    </g>
+    <g transform="translate(370,30)">
+      <rect width="150" height="100" rx="10" fill="#6e1a1e"/>
+      <text y="124" font-size="13" font-weight="700" fill="#2b1416">Oxblood</text>
+      <text y="142" font-size="12" fill="#2b1416" fill-opacity="0.7">#6e1a1e</text>
+    </g>
+    <g transform="translate(540,30)">
+      <rect width="150" height="100" rx="10" fill="#b3261e"/>
+      <text y="124" font-size="13" font-weight="700" fill="#2b1416">Accent red</text>
+      <text y="142" font-size="12" fill="#2b1416" fill-opacity="0.7">#b3261e</text>
+    </g>
+    <g transform="translate(710,30)">
+      <rect width="150" height="100" rx="10" fill="#c9a04e"/>
+      <text y="124" font-size="13" font-weight="700" fill="#2b1416">Gold</text>
+      <text y="142" font-size="12" fill="#2b1416" fill-opacity="0.7">#c9a04e</text>
+    </g>
+  </g>
+</svg>
