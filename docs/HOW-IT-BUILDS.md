@@ -9,7 +9,7 @@
 | Motion | GSAP + ScrollTrigger, Lenis smooth scroll — all on one shared ticker |
 | State | Zustand for page mode / selection; plain mutable objects for per-frame data |
 | Content | All copy and product data (10 scents, notes, moods, bottle shapes) in one data file |
-| Assets | Poly Haven CC0 HDRI + plaster / walnut / marble textures; CC0 / public-domain campaign photos; Fraunces, Manrope, Anton via `next/font` |
+| Assets | Poly Haven CC0 HDRI + plaster / walnut / marble textures; CC0 / public-domain perfume-bottle photos; Fraunces, Manrope, Anton via `next/font` |
 | Hosting | Vercel |
 
 ## Build and deploy
@@ -41,7 +41,7 @@ continuity, docking accuracy), on an Intel UHD laptop GPU.
 | 8 | Still life | Travertine plinth, leaves, gardenia, cloves, plum, warm sun with real shadows |
 | 9 | PBR textures | Poly Haven plaster / walnut / marble, 2K desktop / 1K phone |
 | 10 | Phone pass | Device tier, phone layouts for every section, touch, real-phone check over Wi-Fi |
-| 11 | Photos + menu | Free-licence campaign photos in every photo slot, a working full-screen menu, real contact email |
+| 11 | Photos + menu | Free-licence perfume-bottle photos in every photo slot, a working full-screen menu, real contact email |
 
 ## Performance fixes that mattered
 

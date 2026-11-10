@@ -132,5 +132,5 @@ In one line: Next.js (App Router, TypeScript) statically generates the home page
 
 Built from the public design specs in [alagappan567/perfume-ecorce-showcase](https://github.com/alagappan567/perfume-ecorce-showcase).
 Studio HDRI and the plaster, walnut and marble textures: [Poly Haven](https://polyhaven.com) (CC0).
-Campaign photos: free-licence stock (CC0 / public domain) from StockSnap, rawpixel and Flickr, found via [Openverse](https://openverse.org).
+Campaign photos: free-licence perfume-bottle photos (CC0 / public domain) from rawpixel and Flickr, found via [Openverse](https://openverse.org).
 Fonts: Fraunces, Manrope and Anton (SIL OFL). ÉCORCE is a fictional brand; all commerce is dummy UI.
