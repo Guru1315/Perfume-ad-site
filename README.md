@@ -64,6 +64,8 @@ it follows your cursor, flies into its product page, turns, docks, dives through
 | 📸 **Worn & wanted** | A draggable arc of campaign photos with Atelier / Campaign / Night / Skin filters |
 | 🎨 **Ten moods → contact → footer** | A colour-study gallery, a dark contact section with cursor mist, a magnetic orb that sprays on click, copy-to-clipboard email, and a giant wordmark |
 | ☰ **Menu** | A full-screen menu: the ten scents (each flies its bottle to its page), every section of the page, and contact |
+| 🛍️ **Bag** | “Add to bag” on every scent opens a slide-in bag: quantities, subtotal and a demo checkout (nothing is charged). The bag is remembered between visits |
+| 🇫🇷 **English / Français** | The EN / FR switch translates the whole site in place — copy, all ten scents and every note — without reloading or moving the bottle |
 | 📱 **Phones** | Phone layouts for every section, touch swipe / tap / hold, lighter 3D (lower pixel ratio, lighter refraction, smaller textures) |
 
 ## 🖼️ Screenshots
@@ -93,11 +95,17 @@ it follows your cursor, flies into its product page, turns, docks, dives through
     <td><img src="docs/screenshots/11-footer.jpg" alt="Giant wordmark footer" /></td>
     <td><img src="docs/screenshots/13-menu.jpg" alt="Full-screen menu: the collection, page sections and contact" /></td>
   </tr>
+  <tr>
+    <td><img src="docs/screenshots/14-bag.jpg" alt="The bag: quantities, subtotal and the demo checkout" /></td>
+    <td><img src="docs/screenshots/15-french.jpg" alt="The product page in French" /></td>
+  </tr>
 </table>
 
 **On a phone**
 
 <img src="docs/screenshots/12-phone.jpg" alt="Phone layouts: home, hero, story split screen, composition" width="100%" />
+
+<p align="center"><img src="docs/screenshots/16-phone-bag.jpg" alt="Phone: Add to bag on the product hero, and the bag in French" width="60%" /></p>
 
 ## 🧠 How it works
 
@@ -110,6 +118,8 @@ The short version — the full write-up is in **[docs/HOW-IT-WORKS.md](docs/HOW-
 - **Render on demand.** Nothing is drawn while nothing moves. Idle pages cost almost nothing.
 - **Real glass, tuned for a laptop GPU.** Glass uses refraction (transmission) with a backdrop only the glass can see, shaders are
   pre-compiled and textures uploaded behind the preloader, and phones get a lighter tier.
+- **Two languages, one data file each.** All English copy lives in one data file; a French file overlays it. Switching language
+  re-renders the text only — the 3D scene and the scroll position stay put. The bag and the chosen language are saved in the browser.
 
 ## 🛠️ How it builds
 

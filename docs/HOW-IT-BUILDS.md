@@ -42,6 +42,7 @@ continuity, docking accuracy), on an Intel UHD laptop GPU.
 | 9 | PBR textures | Poly Haven plaster / walnut / marble, 2K desktop / 1K phone |
 | 10 | Phone pass | Device tier, phone layouts for every section, touch, real-phone check over Wi-Fi |
 | 11 | Photos + menu | Free-licence perfume-bottle photos in every photo slot, a working full-screen menu, real contact email |
+| 12 | Bag + French | Slide-in bag with quantities, subtotal and demo checkout; full EN / FR translation; both remembered between visits |
 
 ## Performance fixes that mattered
 

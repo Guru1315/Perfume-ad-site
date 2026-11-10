@@ -108,6 +108,17 @@ The Menu button opens a full-screen panel that grows out of the button as a circ
 one uses the same flight as clicking a bottle, so the chosen bottle flies to its page — plus every section of the
 current page (smooth-scrolled), and the contact details. Esc, Close or any link shuts it.
 
+## Bag and languages
+
+The bag is a dummy cart kept in the site's shared state. “Add to bag” on a product hero adds one bottle and slides the
+bag in from the right; quantities can go up to 9, and the subtotal is formatted per language (€ 185 / 185 €). Checkout
+only shows a note that this is a demo. The bag and the menu never stack — opening one closes the other.
+
+All copy sits in one English data file; a French file overlays it with translated copy, product stories and notes.
+Components read the copy through a small hook keyed on the current language, so the EN / FR switch re-renders text in
+place without touching the 3D scene or the scroll. The few sections that measure their text (word flips, marquee, card
+ring, photo arc) rebuild on a switch. The bag and the language are saved in the browser and come back on the next visit.
+
 ## Phones
 
 A device tier gives phones 1K textures, a pixel ratio ≤ 1.3, a lighter refraction pass, 2× anti-aliasing and a smaller
