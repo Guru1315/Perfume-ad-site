@@ -102,6 +102,12 @@ Intro mist is a pool of GPU point sprites advected by a curl-like noise field �
 geometry is hidden (no rendering) once the last one is gone. The contact section uses a 2D-canvas version that follows
 the cursor and bursts from the orb on click.
 
+## Menu
+
+The Menu button opens a full-screen panel that grows out of the button as a circle. It lists the ten scents — picking
+one uses the same flight as clicking a bottle, so the chosen bottle flies to its page — plus every section of the
+current page (smooth-scrolled), and the contact details. Esc, Close or any link shuts it.
+
 ## Phones
 
 A device tier gives phones 1K textures, a pixel ratio ≤ 1.3, a lighter refraction pass, 2× anti-aliasing and a smaller

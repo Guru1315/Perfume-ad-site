@@ -61,8 +61,9 @@ it follows your cursor, flies into its product page, turns, docks, dives through
 | 🎡 **Other extraits** | A full-width concave arc of the other nine bottles; the hero bottle docks into a dashed “Yours” card. Click a card to fly to that scent |
 | 🌀 **Into the scent** | A 3D tunnel of note words the bottle flies through |
 | 🎼 **Composition** | Top, heart and base notes take turns while every note orbits the bottle on a ring of text |
-| 📸 **Worn & wanted** | A draggable photo arc with filters (campaign photos are placeholders) |
+| 📸 **Worn & wanted** | A draggable arc of campaign photos with Atelier / Campaign / Night / Skin filters |
 | 🎨 **Ten moods → contact → footer** | A colour-study gallery, a dark contact section with cursor mist, a magnetic orb that sprays on click, copy-to-clipboard email, and a giant wordmark |
+| ☰ **Menu** | A full-screen menu: the ten scents (each flies its bottle to its page), every section of the page, and contact |
 | 📱 **Phones** | Phone layouts for every section, touch swipe / tap / hold, lighter 3D (lower pixel ratio, lighter refraction, smaller textures) |
 
 ## 🖼️ Screenshots
@@ -89,7 +90,8 @@ it follows your cursor, flies into its product page, turns, docks, dives through
     <td><img src="docs/screenshots/10-contact.jpg" alt="Contact: cursor mist and the spray orb" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="docs/screenshots/11-footer.jpg" alt="Giant wordmark footer" /></td>
+    <td><img src="docs/screenshots/11-footer.jpg" alt="Giant wordmark footer" /></td>
+    <td><img src="docs/screenshots/13-menu.jpg" alt="Full-screen menu: the collection, page sections and contact" /></td>
   </tr>
 </table>
 
@@ -130,4 +132,5 @@ In one line: Next.js (App Router, TypeScript) statically generates the home page
 
 Built from the public design specs in [alagappan567/perfume-ecorce-showcase](https://github.com/alagappan567/perfume-ecorce-showcase).
 Studio HDRI and the plaster, walnut and marble textures: [Poly Haven](https://polyhaven.com) (CC0).
+Campaign photos: free-licence stock (CC0 / public domain) from StockSnap, rawpixel and Flickr, found via [Openverse](https://openverse.org).
 Fonts: Fraunces, Manrope and Anton (SIL OFL). ÉCORCE is a fictional brand; all commerce is dummy UI.
