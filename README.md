@@ -27,15 +27,15 @@ it follows your cursor, flies into its product page, turns, docks, dives through
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://perfume-ad-site.vercel.app"><img src="docs/media/intro.gif" alt="Intro: the bottle follows the cursor; press and hold to spray mist that blooms into the site" width="100%"/></a>
+      <a href="https://guru-perfume-ad-site.vercel.app"><img src="docs/media/intro.gif" alt="Intro: the bottle follows the cursor; press and hold to spray mist that blooms into the site" width="100%"/></a>
       <br/><sub><b>Intro</b> — the bottle follows your cursor; press &amp; hold to spray, the mist blooms into the site</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://perfume-ad-site.vercel.app"><img src="docs/media/carousel-flyin.gif" alt="Home: drag the bottle carousel over the star seal, click a bottle and it flies into its product page" width="100%"/></a>
+      <a href="https://guru-perfume-ad-site.vercel.app"><img src="docs/media/carousel-flyin.gif" alt="Home: drag the bottle carousel over the star seal, click a bottle and it flies into its product page" width="100%"/></a>
       <br/><sub><b>Carousel → fly-in</b> — drag the arc, click a bottle; it flies into its page while the others fall away</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://perfume-ad-site.vercel.app/extrait/cuir-brule"><img src="docs/media/story-turn.gif" alt="Product page: the title bursts apart and the bottle makes a full showcase turn as you scroll" width="100%"/></a>
+      <a href="https://guru-perfume-ad-site.vercel.app/extrait/cuir-brule"><img src="docs/media/story-turn.gif" alt="Product page: the title bursts apart and the bottle makes a full showcase turn as you scroll" width="100%"/></a>
       <br/><sub><b>Story</b> — the title bursts apart and the bottle makes a full 360° turn with your scroll</sub>
     </td>
   </tr>
@@ -43,7 +43,7 @@ it follows your cursor, flies into its product page, turns, docks, dives through
 
 <div align="center">
 
-### 👉 [Open the live site](https://perfume-ad-site.vercel.app) — hold to spray, drag the bottles, then open one and scroll.
+### 👉 [Open the live site](https://guru-perfume-ad-site.vercel.app) — hold to spray, drag the bottles, then open one and scroll.
 
 </div>
 
