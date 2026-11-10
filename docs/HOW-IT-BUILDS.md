@@ -60,8 +60,3 @@ continuity, docking accuracy), on an Intel UHD laptop GPU.
 
 **Result (headless Chrome, Intel UHD, 1600×900):** whole product page scroll-through ~55–58 fps (median frame 17 ms);
 home idle 60 fps with no GPU work. Phone emulation (390×844 @2×): ~45 fps scrolling, 60 fps idle.
-
-## Reference
-
-Built from the public specs (design notes, prompt sequence, pseudocode and six reference screenshots) in
-[alagappan567/perfume-ecorce-showcase](https://github.com/alagappan567/perfume-ecorce-showcase).
