@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://perfume-ad-site.vercel.app">
+<a href="https://guru-perfume-ad-site.vercel.app">
   <img src="docs/media/banner-3d.svg" alt="ÉCORCE — animated 3D banner: a glass bottle turns over a rotating star seal while scent mist rises. Click for the live site." width="100%" />
 </a>
 
 <br/>
 
-[![Live Site](https://img.shields.io/badge/▶_Live_Site-perfume--ad--site.vercel.app-6e1a1e?style=for-the-badge&labelColor=2b1416)](https://perfume-ad-site.vercel.app)
+[![Live Site](https://img.shields.io/badge/▶_Live_Site-guru-perfume--ad--site.vercel.app-6e1a1e?style=for-the-badge&labelColor=2b1416)](https://guru-perfume-ad-site.vercel.app)
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-149eca?style=flat-square&logo=react&logoColor=white)
